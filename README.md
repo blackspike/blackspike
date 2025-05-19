@@ -1,3 +1,3 @@
 # blackspike design - creative web development
 
-blackspike design is a freelance full-stack creative development team working remotely from Brighton, UK
+blackspike ltd designs and builds websites with Astro, Vue, Nuxt, Wordpress and passion in Brighton, UK
